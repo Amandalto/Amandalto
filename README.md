@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Amanda Lopes! 👋</h1>
 
 <p align="center">
-  💻 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por inclusão digital, aprendizado contínuo e tecnologia <br>
+  💻 Analista de Sistemas |  Apaixonada por inclusão digital, aprendizado contínuo e tecnologia <br>
   📍 Brasil | Em transição de carreira para a área de TI
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-Formada Análise e Desenvolvimento de Sistemas.  
+Formada em Análise e Desenvolvimento de Sistemas.  
 Atualmente, estou desenvolvendo projetos voltados para aprendizado prático e conhecimento técnico em programação.
 
 💡 Estou sempre em busca de novas oportunidades para aplicar meus conhecimentos, colaborar com pessoas incríveis e crescer na área de tecnologia!

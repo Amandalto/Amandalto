@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-Sou uma estudante de Análise e Desenvolvimento de Sistemas com previsão de conclusão em [2025].  
+Formada Análise e Desenvolvimento de Sistemas.  
 Atualmente, estou desenvolvendo projetos voltados para aprendizado prático e conhecimento técnico em programação.
 
 💡 Estou sempre em busca de novas oportunidades para aplicar meus conhecimentos, colaborar com pessoas incríveis e crescer na área de tecnologia!
